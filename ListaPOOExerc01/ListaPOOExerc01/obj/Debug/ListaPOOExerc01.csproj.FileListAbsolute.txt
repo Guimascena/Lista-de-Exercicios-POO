@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\ListaPOOExerc01\ListaPOOExerc01\bin\Debug\ListaPOOExerc01.exe.config
+C:\Users\aluno\source\repos\ListaPOOExerc01\ListaPOOExerc01\bin\Debug\ListaPOOExerc01.exe
+C:\Users\aluno\source\repos\ListaPOOExerc01\ListaPOOExerc01\bin\Debug\ListaPOOExerc01.pdb
+C:\Users\aluno\source\repos\ListaPOOExerc01\ListaPOOExerc01\obj\Debug\ListaPOOExerc01.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\ListaPOOExerc01\ListaPOOExerc01\obj\Debug\ListaPOOExerc01.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ListaPOOExerc01\ListaPOOExerc01\obj\Debug\ListaPOOExerc01.exe
+C:\Users\aluno\source\repos\ListaPOOExerc01\ListaPOOExerc01\obj\Debug\ListaPOOExerc01.pdb
