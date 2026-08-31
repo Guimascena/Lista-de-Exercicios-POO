@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{67357862-91F1-4B62-BA1D-471B3704BDD7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ListaPOOExerc01</RootNamespace>
-    <AssemblyName>ListaPOOExerc01</AssemblyName>
+    <RootNamespace>POOExerc01</RootNamespace>
+    <AssemblyName>POOExerc01</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
