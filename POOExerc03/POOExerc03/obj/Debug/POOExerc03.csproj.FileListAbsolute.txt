@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\POOExerc03\POOExerc03\bin\Debug\POOExerc03.exe.config
+C:\Users\aluno\source\repos\POOExerc03\POOExerc03\bin\Debug\POOExerc03.exe
+C:\Users\aluno\source\repos\POOExerc03\POOExerc03\bin\Debug\POOExerc03.pdb
+C:\Users\aluno\source\repos\POOExerc03\POOExerc03\obj\Debug\POOExerc03.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\POOExerc03\POOExerc03\obj\Debug\POOExerc03.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\POOExerc03\POOExerc03\obj\Debug\POOExerc03.exe
+C:\Users\aluno\source\repos\POOExerc03\POOExerc03\obj\Debug\POOExerc03.pdb
