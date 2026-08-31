@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ListaPOOExerc01
+namespace POOExerc01
 {
     internal class Program
     {
