@@ -1,0 +1,7 @@
+C:\Users\Guilherme Mascena\source\repos\POOExerc04\POOExerc04\bin\Debug\POOExerc04.exe.config
+C:\Users\Guilherme Mascena\source\repos\POOExerc04\POOExerc04\bin\Debug\POOExerc04.exe
+C:\Users\Guilherme Mascena\source\repos\POOExerc04\POOExerc04\bin\Debug\POOExerc04.pdb
+C:\Users\Guilherme Mascena\source\repos\POOExerc04\POOExerc04\obj\Debug\POOExerc04.csproj.AssemblyReference.cache
+C:\Users\Guilherme Mascena\source\repos\POOExerc04\POOExerc04\obj\Debug\POOExerc04.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Mascena\source\repos\POOExerc04\POOExerc04\obj\Debug\POOExerc04.exe
+C:\Users\Guilherme Mascena\source\repos\POOExerc04\POOExerc04\obj\Debug\POOExerc04.pdb
